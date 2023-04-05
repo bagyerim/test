@@ -1,0 +1,6 @@
+.layout1{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    color:blueviolet;
+}
